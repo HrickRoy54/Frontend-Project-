@@ -4,6 +4,7 @@ A pixel-inspired, front-end clone of the **Spotify Web Player**, built with pure
 
 > 🎯 Built as a front-end practice project focused on layout, Flexbox, and UI fidelity to a real-world product.
 
+<img width="1274" height="762" alt="Screenshot 2026-09-24 at 3 27 04 AM" src="https://github.com/user-attachments/assets/0a854dae-69d0-469b-8a22-db889bb5f28c" />
 
 
 ## ✨ Features
